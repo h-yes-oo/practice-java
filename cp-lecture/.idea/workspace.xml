@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2359b014-3b1c-4306-9973-590636774c99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/checking/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checking/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checking/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checking/checking.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checking/src/checking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/out/production/lab5/META-INF/lab5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/out/production/lab5/evolution/of/truth/environment/Tournament.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cp_lab/lab5/out/production/lab5/evolution/of/truth/environment/Tournament.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/src/evolution/of/truth/agent/Copykitten.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cp_lab/lab5/src/evolution/of/truth/agent/Copykitten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/src/evolution/of/truth/match/MistakeMatch.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1irsk5B8Egt7v1xmMwOdiRUsDMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2359b014-3b1c-4306-9973-590636774c99" name="Default Changelist" comment="" />
+      <created>1602677184212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602677184212</updated>
+      <workItem from="1602677187112" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="731" y="-906" key="new project wizard" timestamp="1602677243994">
+      <screen x="-36" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="731" y="-906" key="new project wizard/-36.-1057.1920.1057/0.23.1792.1047@-36.-1057.1920.1057" timestamp="1602677243994" />
+  </component>
+</project>
