@@ -18,7 +18,6 @@ public class Copykitten extends Agent {
     @Override
     public int choice(int previousOpponentChoice){
         if(previousOpponentChoice == Match.UNDEFINED){
-            isCheated = 0;
             return Match.COOPERATE;
         } else if(previousOpponentChoice == Match.CHEAT){
             if(isCheated == 0){
@@ -29,6 +28,7 @@ public class Copykitten extends Agent {
                 return previousOpponentChoice;
             }
         } else{
+            isCheated = 0;
             return previousOpponentChoice;
         }
     }
