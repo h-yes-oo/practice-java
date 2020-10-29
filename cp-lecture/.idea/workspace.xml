@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2359b014-3b1c-4306-9973-590636774c99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/checking/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checking/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checking/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checking/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checking/checking.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checking/src/checking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/out/production/lab5/META-INF/lab5.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/out/production/lab5/evolution/of/truth/environment/Tournament.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cp_lab/lab5/out/production/lab5/evolution/of/truth/environment/Tournament.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/src/evolution/of/truth/agent/Copykitten.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cp_lab/lab5/src/evolution/of/truth/agent/Copykitten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cp_lab/lab5/src/evolution/of/truth/match/MistakeMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="SvnConfiguration">
@@ -45,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602677184212</updated>
       <workItem from="1602677187112" duration="60000" />
+      <workItem from="1603892075788" duration="1421000" />
     </task>
     <servers />
   </component>
@@ -52,9 +50,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="731" y="-906" key="new project wizard" timestamp="1602677243994">
+    <state x="731" y="-906" key="new project wizard" timestamp="1603935872581">
       <screen x="-36" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="731" y="-906" key="new project wizard/-36.-1057.1920.1057/0.23.1792.1047@-36.-1057.1920.1057" timestamp="1602677243994" />
+    <state x="731" y="-906" key="new project wizard/-36.-1057.1920.1057/0.23.1792.1047@-36.-1057.1920.1057" timestamp="1603935872581" />
   </component>
 </project>
