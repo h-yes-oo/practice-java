@@ -1,0 +1,5 @@
+1786/11/17 21:18:04
+say set sky thoughtyoushow
+
+decideport storysurface 
+sky circle instandhundred

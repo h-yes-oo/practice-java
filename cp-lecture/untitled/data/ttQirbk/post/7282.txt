@@ -1,0 +1,5 @@
+1050/11/12 06:52:17
+rule job beganengine 
+
+special busy where 
+reach has joy

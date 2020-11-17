@@ -8,6 +8,9 @@ public class StorageManager {
      * Read string lines of files in a specified directory.
      * The files are sorted by their names.
      */
+
+    //해당 디렉토리의 파일들을 순서대로 읽어들여서 nested list로 저장
+    //디렉토리[파일1[라인1, 라인2, ... ], 파일2[라인1, 라인2, ...], 파일3[라인1, 라인2, ...]]
     public static List<List<String>> directoryChildrenLines(String directoryName) {
         List<List<String>> childrenLines = new LinkedList<>();
         for (File childFile : nameSortedDirectoryFiles(directoryName)) {
@@ -61,12 +64,14 @@ public class StorageManager {
         return strings;
     }
 
+    //이름 순으로 디렉토리의 파일들을 정렬한 리스트 리턴
     private static File[] nameSortedDirectoryFiles(String directoryName) {
         File[] directoryFiles = directoryFiles(directoryName);
         Arrays.sort(directoryFiles, Comparator.comparing(File::getName));
         return directoryFiles;
     }
 
+    //디렉토리 경로에 있는 파일들을 배열로 리턴
     private static File[] directoryFiles(String directoryName) {
         File directory = new File(directoryName);
         return directory.listFiles();

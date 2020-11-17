@@ -1,8 +1,13 @@
 import java.util.Scanner;
 
 public class DiaryUI {
-    private static Diary diary = new Diary();
-    private static Scanner scanner = new Scanner(System.in);
+    private static Diary diary;
+    private static Scanner scanner;
+
+    static void initializeDiaryUI() {
+        diary = new Diary();
+        scanner = new Scanner(System.in);
+    }
 
     /* Print the message, and input a string line from the console */
     static String input(String message) {
@@ -45,15 +50,21 @@ public class DiaryUI {
 
     public static void main(String[] args) {
         String command;
-        do {
-            print("\nType a command");
-            print("\tcreate: Create a diary entry");
-            print("\tlist: List diary entries");
-            print("\tread <id>: Read a diary entry with <id>");
-            print("\tdelete <id>: Delete a diary entry with <id>");
-            print("\tsearch <keyword>: List diary entries whose contents contain <keyword>");
-            System.out.print("Command: ");
-            command = scanner.nextLine();
-        } while (runCommand(command));
+
+        //try {
+            initializeDiaryUI();
+            do {
+                print("\nType a command");
+                print("\tcreate: Create a diary entry");
+                print("\tlist: List diary entries");
+                print("\tread <id>: Read a diary entry with <id>");
+                print("\tdelete <id>: Delete a diary entry with <id>");
+                print("\tsearch <keyword>: List diary entries whose contents contain <keyword>");
+                System.out.print("Command: ");
+                command = scanner.nextLine();
+            } while (runCommand(command));
+//        } catch(NullPointerException e){
+//            System.out.println("Diary directory data/ is not found.");
+//        }
     }
 }

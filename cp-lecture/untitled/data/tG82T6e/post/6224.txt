@@ -1,0 +1,6 @@
+1971/09/11 08:47:20
+paint year half truefoot fraction 
+
+call areword open fall 
+waitwill machine
+leftbring layspell

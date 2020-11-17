@@ -1,0 +1,6 @@
+1737/04/10 16:00:11
+basetest learn city tellany 
+
+drawcome city green point saystory 
+numeralsecond starfull mapboard 
+show mean

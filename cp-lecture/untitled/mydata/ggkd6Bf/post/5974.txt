@@ -1,0 +1,6 @@
+1148/09/13 07:24:02
+glassrock 
+
+set bed enough what may one
+behomewalkpositionset town equate down map walkpattern
+up

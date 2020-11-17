@@ -68,9 +68,22 @@ class RealPoint extends Point {
     int getY() { return (int)Math.floor(y); }
 }
 
+class Wrapper<T> {
+    T obj;
+    void add(T obj){
+        this.obj =obj;
+    }
+    T get() {
+        return obj;
+    }
+}
+
 
 public class Test {
     public static void main(String[] args){
+        Wrapper<Integer> m = new Wrapper<Integer>();
+        m.add(2);
+        System.out.println(m.get());
         Pointt p = new Pointt();
         p.move(3,0);
         p.move(0.0f, 4.0f);
